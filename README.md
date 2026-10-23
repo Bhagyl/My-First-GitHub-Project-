@@ -1,6 +1,4 @@
-# My-First-GitHub-Project-
-A beginner project to learn GitHub, version control, documentation and collaboration. 
-# My First GitHub Project
+ # My First GitHub Project
 
 ## About
 This is my first practical project on GitHub.
